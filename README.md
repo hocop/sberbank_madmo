@@ -1,1 +1,7 @@
-# sberbank_ruslan
+Репозиторий, где я выкладываю материалы своих занятий по data science.  
+Курс МАДМО (методы анализа данных и машинного обучения) для сотрудников сбербанка.  
+
+Материалы взяты из многих мест, в том числе:  
+* https://github.com/ibr11/Sberbank
+* https://github.com/DLSchool/deep_learning_2018-19
+* Разные ноутбуки с https://www.kaggle.com/
