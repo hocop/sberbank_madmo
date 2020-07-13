@@ -20,3 +20,9 @@
 * https://github.com/ibr11/Sberbank
 * https://github.com/DLSchool/deep_learning_2018-19
 * Разные ноутбуки с https://www.kaggle.com/
+
+## Материалы
+Материалы курса - лекции и ноутбуки - лежат в папках по дням.
+
+## Финальный проект
+Рекоммендации к финальному проекту лежат в [гугл доке](https://docs.google.com/document/d/1YmBwLZdW7kXm4VtmfoQeBEIgKOuEeJb8xQlt-ZT-tTY), а также в этой папке.
