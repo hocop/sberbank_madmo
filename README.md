@@ -7,7 +7,7 @@
   * https://pythonworld.ru/samouchitel-python - онлайн учебник, по которому я сам выучил питон. Очень понятный, ничего лишнего.
   * http://pythontutor.ru - здесь можно попрактиковаться, порешать задачки на питоне
 * По математике
-  * https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab - офигенный канал, правда на английском. Объясняет все с помощью наглядных анимаций.
+  * https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab - хороший канал, правда на английском. Объясняет все с помощью наглядных анимаций.
 * По machine learning
   * https://vas3k.ru/blog/machine_learning/ - введение в ml с самого начала
   * https://playground.tensorflow.org/ - здесь можно поиграться в нейросети в браузере
